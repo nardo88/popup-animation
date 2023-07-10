@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.btn {
+    padding: 5px 20px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
